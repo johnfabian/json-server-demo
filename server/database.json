@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "Product 1"
+        
+        },
+        {
+            "id": "2",
+            "title": "Product 2"
+        
+        }
+    ],
+
+    "comments": [
+        { "id": 1, "comment": "some comment 1"},
+        { "id": 2, "comment": "some comment 2"}
+      ]
+}

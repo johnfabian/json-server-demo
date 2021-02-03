@@ -1,10 +1,10 @@
 # JsonServerDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+This project is a sample using json-server with mock data. After npm install run  `npm run start:server` to start the JSON Server and the Angular local server together
 
-## Development server
+## Run json-server and angular together
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ npm run start:server
 
 ## Code scaffolding
 
