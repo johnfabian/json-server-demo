@@ -2,10 +2,6 @@
 
 This project is a sample using json-server with mock data. After npm install run  `npm run start:server` to start the JSON Server and the Angular local server together
 
-## Run json-server and angular together
-
- npm run start:server
-
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
